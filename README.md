@@ -15,8 +15,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 First-year **MSc Data Science** student at **TU Wien (Technische Universität Wien)**, Vienna
-- 💼 nearly 2 years (1 year 10 months) experience as **Angular Frontend Developer** at **Infosys Limited**
-- 📊 1 year as **Marketing Executive & Program Coordinator** at **OMICS International**
+- 💼 3 years of professional experience, including:
+- 1 year 9 months as an Angular Frontend Developer at Infosys Limited
+- 📊 1 year 3 months **Marketing Executive & Program Coordinator** at **OMICS International**
 - 🌍 Based in **Vienna, Austria** — Student Residence Permit, max. **20 hours/week**
 - 🌱 Currently learning: Advanced SQL · Machine Learning · German (A1 Learning)
 - 🤝 Open to: **Part-time · Working Student · Internship** in frontend, data, or marketing roles
